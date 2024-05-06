@@ -1,0 +1,685 @@
+body{
+    background-color: whitesmoke;
+    color: black;
+}
+
+.Dashboard{
+    background-color: #313a46;
+    color: #bccee4;
+    width: 10%;
+    padding: 4rem;
+    position: fixed;
+    left: 0rem;
+    top: 0rem;
+}
+
+.crush{
+  position: relative;
+  bottom: 4rem;
+  padding-top: 0.7rem;
+}
+
+
+.homei{
+  position: relative;
+  right: 1rem;
+  top: 5px;
+}
+
+#five{
+  position: relative;
+  left: 4rem;
+  bottom: 2.4rem;
+  background-color: chartreuse;
+  padding: px;
+}
+
+.romi{
+  margin-right: 1rem;
+}
+
+.ilo{
+  display: fle;
+}
+
+#cush{
+  font-size: small;
+  position: relative;
+  right:2rem;
+}
+
+#cushi{
+  font-size: small;
+  position: relative;
+  right:2rem;
+  bottom: 10px;
+}
+
+.text{
+  position: relative;
+  bottom: 3.2rem;
+  left: 3.2rem;
+}
+
+#calie{
+   color: white;
+   font-size: 17px;
+     position: relative;
+  bottom: 3.2rem;
+}
+
+#rup{
+  position: relative;
+  bottom: 33px;
+}
+
+#calii{
+   color: white;
+   font-size: 17px;
+     position: relative;
+      bottom: 1rem;
+}
+
+#data{
+    background-color: white;
+    color: black;
+    padding-left:20px ;
+    padding-right: 20px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    width: 12%;
+}
+
+.icon{
+    color:white;
+    background-color:#727cf5;
+    padding-left:5px ;
+    padding-right: 5px;
+    padding-top:7px;
+    padding-bottom: 7px;
+    width: 5%;
+}
+
+.fex{
+    display: flex;
+}
+
+.Debs{
+    margin-left: 2rem;
+    background-color:white;
+    color: black; 
+    padding: 1rem;
+    width: 65%;
+}
+
+.Details{
+     background-color:white;
+    color: black;
+    padding: 1rem;
+    width: 65%;
+}
+
+
+
+.stip{
+    display: flex;
+}
+
+.icons{
+    margin-left: 3rem;
+    margin-top: 1rem;
+    background-color: #727cf5;
+    width: 15%;
+    padding: 7px;
+    font-size: 1.4rem;
+}
+
+
+.iconst{
+  margin-left: 5rem;
+  margin-top: 1rem;
+  background-color: #727cf5;
+  width: 15%;
+  padding: 7px;
+  font-size: 1.4rem;
+}
+
+
+.icone{
+  margin-left: 3rem;
+  margin-top: 1rem;
+  background-color: #727cf5;
+  padding: 6px;
+}
+
+
+
+.josh{
+    display: flex;
+}
+
+.melto{
+    margin-left: 2rem;
+    margin-top: 2rem;
+    background-color:white;
+    color: black; 
+    padding: 1rem;
+    width: 65%;
+}
+
+.lots{
+    background-color:white;
+    color: black; 
+    margin-top: 2rem;
+    padding: 1rem;
+    width: 65%;
+}
+
+#numi{
+  font-size: 1.4rem;
+}
+
+.six{
+  font-size: 15px;
+  padding-top: 1rem;
+}
+
+
+
+.drag{
+  position: relative;
+  left: 27.5rem;
+  top: 1rem;
+}
+
+.Months{
+    display: flex;
+    padding-left: 1.8rem;
+    font-size: 12px;
+}
+
+.Room{
+    display: flex;
+}
+
+.General{
+    background-color:white;
+    color: black;
+    width: 45%;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    padding: 1rem;
+}
+
+.fixed{
+    display: flex;
+}
+
+.Ge{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.off{
+    display: flex;
+    background-color:whitesmoke;
+    color: black;
+    text-align: center;
+    width: 90%;
+    margin-left: 1.6rem;
+}
+
+#big{
+  font-size: 1.4rem;
+}
+
+#small{
+  color: gray;
+}
+
+.Weeks{
+    display: flex;
+    padding-left: 2rem;
+}
+
+.tip{
+    display: flex;
+}
+
+.tipo{
+    margin-left: 3rem;
+}
+
+.view{
+    display: flex;
+}
+
+#com{
+    margin-left: 3rem;
+    width: 30%;
+    padding: 5px;
+    border: solid blue;
+    text-align: center;
+    border-radius: 5px;
+    color: blue;
+}
+
+.arrow{
+    color: blue;
+    margin-left: 2rem;
+}
+
+.sets{
+  position: relative;
+  left: 15rem;
+}
+
+.set{
+  position: relative;
+  left: 6rem;
+}
+
+.Dragind{
+    position: relative;
+    left: 33.2rem;
+    top: 5px;
+}
+
+.Dragine{
+  position: relative;
+  left: 12rem;
+  top: 5px;
+}
+
+.bola{
+margin-left: 3rem;
+}
+
+
+#erev{
+  margin-left: 1.7rem;
+}
+
+#star{
+  margin-left: 1.7rem;
+}
+
+.bett{
+    background-color:blue;
+    width: 50%;
+    border: 3px solid blue;
+    margin-bottom: 4rem;
+  }
+
+  .beti{
+    background-color:whitesmoke;
+    width: 20%;
+    border: 3px solid whitesmoke;
+    margin-bottom: 4rem;
+  }
+
+
+  .betes{
+    background-color:blue;
+    width: 30%;
+    border: 3px solid blue;
+    margin-bottom: 4rem;
+  }
+
+  
+  .bets{
+    background-color:whitesmoke;
+    width: 40%;
+    border: 3px solid whitesmoke;
+    margin-bottom: 4rem;
+  }
+
+  .bety{
+    background-color:blue;
+    width: 40%;
+    border: 3px solid blue;
+    margin-bottom: 4rem;
+  }
+
+  
+  .betl{
+    background-color:whitesmoke;
+    width: 28%;
+    border: 3px solid whitesmoke;
+    margin-bottom: 4rem;
+  }
+
+
+
+  .vol{
+    display: flex;
+  }
+
+  .Head-flex{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+
+  .seco{
+    margin-left: 5rem;
+    margin-top: 2rem;
+    background-color: white;
+    color: black;
+    width: 30%;
+    padding: 7px;
+
+  }
+
+  .revenu{
+    margin-top: 2rem;
+    position: relative;
+    left: 4.2rem;
+    background-color: white;
+    color: black;
+    width: 45%;
+    padding: 10px;
+  }
+
+  
+
+  .sell{
+    display: flex;
+  }
+
+  
+
+  .forg{
+    display: flex;
+  }
+
+  .supi{
+    display: flex;
+    position: relative;
+    bottom: 20rem;
+  }
+
+
+  .supit{
+    display: flex;
+    position: relative;
+    bottom: 1rem;
+  }
+  #kit{
+    color: #727cf5;
+  }
+
+  #kin{
+    color: aqua;
+  }
+
+.gendo{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-top: 2rem;
+  width: 80%;
+ position: relative;
+  left: 10rem;
+}
+
+
+
+
+.rezi{
+  position: relative;
+  left: 8rem;
+background-color: white;
+color: black;
+padding: 2rem;
+width: 22%;
+}
+
+
+.start{
+  background-color:#ffffff;
+  padding: 1.2rem;
+  position: relative;
+  left: 4rem;
+} 
+
+.tolin{
+  position: relative;
+  left: 6rem;
+background-color:white;
+color: black;
+padding: 3.7rem;
+width: 17%;
+}
+
+.bowl{
+  display: flex;
+  padding-left: 2rem;
+  position: relative;
+  left: 7.8rem;
+}
+
+
+#hyper{
+  position: relative;
+  right: 20rem;
+}
+
+.clasico{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.ked{
+  position: relative;
+  left: 14.6rem;
+}
+
+
+.bet{
+  background-color:#616161;
+  width: 76%;
+  border: 1px solid #616161;
+  margin-top: 2rem;
+  margin-left: 7rem;
+}
+
+
+.slid{
+  display: flex;
+  position: relative;
+  top: 1.2rem;
+  left: 1rem;
+}
+
+.sece{
+  display: flex;
+}
+
+
+.Aso{
+  display: flex;
+  padding-left: 25px;
+}
+
+.Apr{
+  display: flex;
+  padding-left: 30px;
+}
+
+
+.pill{
+  position: relative;
+  left:10rem ;
+  top: 10px;
+}
+
+.pil{
+  position: relative;
+  left:8rem ;
+  top: 10px;
+}
+.forg{
+  position: relative;
+  top: 4rem;
+}
+
+
+#ex{
+  background-color: aliceblue;
+  color: black;
+  position: relative;
+  left: 7rem;
+  bottom: 1.4rem;
+  width: 25%;
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+#exa{
+  position: relative;
+  bottom: 1rem;
+}
+
+
+
+.acci{
+  position: relative;
+  top: 3.2rem;
+}
+
+
+.stop{
+  position: relative;
+top:2rem;
+left:1rem;
+}
+
+#bor{
+  position: relative;
+top:2.4rem;
+left:2rem;
+}
+
+#tins{
+   position: relative;
+bottom:1rem;
+}
+
+#Johnn-image{
+  background-color: #616161;
+  width: 3%;
+  height: 3%;
+  padding: 15px;
+  box-sizing: border-box;
+  border-radius: 50%;
+}
+
+.arro{
+  position: relative;
+  top: 5px;
+}
+
+#green{
+  color: green;
+}
+
+#blue{
+  color: red;
+}
+
+#laa{
+  margin-left: 1.4rem;
+}
+
+
+.dok{
+margin-bottom: 13px;
+
+}
+
+.flag{
+  width: 3%;
+  margin-right: 10px;
+}
+
+#lish{
+    position: relative;
+  top: 1rem;
+  }
+
+
+.Navi{
+  display: flex;
+  width: 80%;
+  position: relative;
+  left: 17rem;
+  bottom: 5.2rem;
+  padding: 20px;
+  background-color: white;
+}
+
+.fik{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  
+  margin-right: 2rem;
+}
+
+.ficos{
+  display: flex;
+  margin-left: 2rem;
+  position: relative;
+  top: 1.7rem;
+}
+
+.fit{
+
+}
+
+#okay{
+  padding: 10px;
+  background-color: aliceblue;
+  padding-left: 3rem;
+}
+
+#eng{
+position: relative;
+top: 1.7rem;
+background-color: #727cf5;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 5px;
+padding-top: 5px;
+height: 30%;
+}
+
+.place{
+  position: relative;
+  left: 1rem;
+  top: 2.2rem;
+}
+
+.deh{
+  margin-left: 2rem;
+  display: flex;
+}
+
+.datap{
+  width: 80%;
+  position: relative;
+  left: 19rem;
+  
+}
+
+.datimes{
+  display: flex;
+justify-content: flex-end;
+align-items: flex-end;
+position: relative;
+bottom: 1.2rem;
+}
